@@ -1,48 +1,41 @@
-# Quiz App - Python OOP
+# ❓📚 **Quiz App – Python OOP**
 
-A simple **console-based quiz application** built using **Object-Oriented Programming (OOP)** in Python. This app allows users to answer multiple-choice questions and get a score based on correct answers.
+A simple **console-based Quiz Application** built using **Object-Oriented Programming (OOP)** in Python.  
+This app allows users to answer multiple-choice questions and get a final score based on correct answers — ideal for practicing OOP and logic handling.
 
-## ❓ Features
+---
 
-- Multiple-choice questions
-- Score calculation based on correct answers
-- User-friendly command-line interface
-- OOP-based structure for scalability and clarity
+## 🧩 Features
 
-## 🧱 Tech Stack
+- 📝 Multiple-Choice Questions  
+- 🎯 Score Calculation Based on Correct Answers  
+- 💻 User-Friendly Command-Line Interface  
+- 🧠 Scalable OOP-Based Code Structure  
 
-- Language: Python
-- Concepts Used: Classes, Objects, Lists, Control Flow, Encapsulation
-
-## 🚀 How to Run
-
-1. Make sure Python is installed.
-2. Clone the repository or copy the `.py` file.
-3. Run the script using:
-
-```bash
-python QuizProjectUsingOOp.py
-# Quiz App - Python OOP
-
-A simple **console-based quiz application** built using **Object-Oriented Programming (OOP)** in Python. This app allows users to answer multiple-choice questions and get a score based on correct answers.
-
-## ❓ Features
-
-- Multiple-choice questions
-- Score calculation based on correct answers
-- User-friendly command-line interface
-- OOP-based structure for scalability and clarity
+---
 
 ## 🧱 Tech Stack
 
-- Language: Python
-- Concepts Used: Classes, Objects, Lists, Control Flow, Encapsulation
+- **Language:** Python  
+- **Concepts Used:**  
+  - Classes and Objects  
+  - Lists and Loops  
+  - Control Flow (`if/else`)  
+  - Encapsulation & Clean Method Design
 
-## 🚀 How to Run
+---
 
-1. Make sure Python is installed.
-2. Clone the repository or copy the `.py` file.
-3. Run the script using:
+## ▶️ How to Run
 
+### 💻 Using Terminal / CMD:
 ```bash
 python QuizProjectUsingOOp.py
+✅ Ensure Python is installed and added to your system PATH.
+
+👨‍💻 Author
+Muhammad Umair Bashir
+📧 umairbashir0319@gmail.com
+
+🪪 License
+This project is free and open-source for learning, educational, and personal use.
+You're welcome to modify, share, or extend the project with proper credit.
